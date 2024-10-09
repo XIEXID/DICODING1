@@ -155,3 +155,6 @@ st.dataframe(filtered_data)
 # Menambahkan kesimpulan
 st.write('### Kesimpulan:')
 st.write('Berdasarkan analisis, penyewaan sepeda cenderung tinggi terjadi pada jam sibuk yaitu sekitar pukul 08.00 pagi dan 05.00 - 06.00 sore dan dipengaruhi oleh suhu serta kondisi cuaca')
+
+# link akses streamlit 
+https://dicoding1-jrqzg79p39gbp2je4sezlb.streamlit.app/ 
