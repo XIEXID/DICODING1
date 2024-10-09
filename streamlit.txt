@@ -1,0 +1,2 @@
+# link akses streamlit 
+https://dicoding1-jrqzg79p39gbp2je4sezlb.streamlit.app/ 
