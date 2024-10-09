@@ -14,6 +14,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st 
 from babel.numbers import format_currency
+from sklearn.preprocessing import StandardScaler
 sns.set(style='dark')
 
 # Memuat dataset yang diunggah
